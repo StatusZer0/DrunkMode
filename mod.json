@@ -1,9 +1,9 @@
 {
-	"geode": "3.0.0-alpha.1",
+	"geode": "3.0.0-alpha.2",
 	"gd": {
 		"win": "2.206"
 	},
-	"version": "v1.1.0",
+	"version": "v1.1.1",
 	"id": "statuszer0.drunk_mode",
 	"name": "Drunk Mode",
 	"developer": "StatusZer0",
