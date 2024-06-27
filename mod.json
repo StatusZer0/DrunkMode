@@ -1,5 +1,5 @@
 {
-	"geode": "3.0.0-alpha.2",
+	"geode": "3.1.0",
 	"gd": {
 		"win": "2.206"
 	},
@@ -7,5 +7,6 @@
 	"id": "statuszer0.drunk_mode",
 	"name": "Drunk Mode",
 	"developer": "StatusZer0",
+	"tags": ["joke"],
 	"description": "A mod that makes the player drunk"
 }
