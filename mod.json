@@ -1,7 +1,7 @@
 {
-	"geode": "3.1.0",
+	"geode": "3.1.1",
 	"gd": {
-		"win": "2.206"
+		"win": "*"
 	},
 	"version": "v1.1.1",
 	"id": "statuszer0.drunk_mode",
